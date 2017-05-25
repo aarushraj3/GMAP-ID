@@ -1,0 +1,310 @@
+./input/Maharashtra.csv
+VILLAGE : shri samarth eng medium school 
+(0, {'status_code': 205, 'place_id': None})
+VILLAGE : kalsubai high school 
+(1, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(2, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school dattawadi
+(3, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school lahotewadi
+(4, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school malunjkarwadi
+(5, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school bagalawadi
+(6, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school madagewadi
+(7, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(8, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school mhasobawadi
+(9, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school savantwadi
+(10, {'status_code': 205, 'place_id': None})
+VILLAGE : new english medium school 
+(11, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(12, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school parasurwadi
+(13, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school mhashalwadi
+(14, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p school bangarwadi
+(15, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school bhandardara
+(16, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school daryachiwadi
+(17, {'status_code': 205, 'place_id': None})
+VILLAGE : sai public school market yard 
+(18, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(19, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school keliotur
+(20, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(21, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(22, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school vidutnagar
+(23, {'status_code': 205, 'place_id': None})
+VILLAGE : anudanit madhamik  ashram 
+(24, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(25, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school shendkarwadi
+(26, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(27, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school gambhirwadi
+(28, {'status_code': 205, 'place_id': None})
+NO FILTER : dhakoji maharaj madhyamik vidyalaya nimgaondaku
+(29, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school pachpatta
+(30, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p. school waki ( pachpatta)
+(31, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(32, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(33, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school ramwadi
+(34, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school sherewadi
+(35, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(36, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school shilawandi
+(37, {'status_code': 205, 'place_id': None})
+NO FILTER : sant n.v.s. shilawandi
+(38, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school wakhari
+(39, {'status_code': 205, 'place_id': None})
+VILLAGE : mananiy madhukarrao pichad madyhamik vid. 
+(40, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school poperwadi
+(41, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school thakarwadi (pi.nipani)
+(42, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(43, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school khauti
+(44, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school jambhalewadi
+(45, {'status_code': 201, 'place_id': u'ChIJf_KBgz4S3TsRjLhUWhoGuOw'})
+NO FILTER : new english school jambhalewadi
+(46, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school pi. nipani
+(47, {'status_code': 205, 'place_id': None})
+VILLAGE : mv 
+(48, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school amberai
+(49, {'status_code': 205, 'place_id': None})
+VILLAGE : loknayak jayprakash narayan vidyalaya, 
+(50, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.schooltrishulwadi
+(51, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(52, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school sherankhel
+(53, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(54, {'status_code': 205, 'place_id': None})
+VILLAGE : prajakta daimand eng 
+(55, {'status_code': 205, 'place_id': None})
+VILLAGE : govt eng ashramshal 
+(56, {'status_code': 205, 'place_id': None})
+VILLAGE : ashram shala sherankhel
+(57, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school malwadi
+(58, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(59, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school  zopadpatti
+(60, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(61, {'status_code': 205, 'place_id': None})
+VILLAGE : new eng school 
+(62, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school madhi kh.
+(63, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper primary school 
+(64, {'status_code': 205, 'place_id': None})
+VILLAGE : s. n. english primary  school 
+(65, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. primary school 
+(66, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+VILLAGE : z.p.upper primary school  
+(67, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper primary school 
+(68, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper primary school 
+(69, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.primary school 
+(70, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+VILLAGE : z.p. primary school 
+(71, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+VILLAGE : z.p. primary school 
+(72, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+VILLAGE : z.p. primary school 
+(73, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+NO FILTER : z.p.p. school dhambodiphata
+(74, {'status_code': 205, 'place_id': None})
+VILLAGE : jagruti upper primary school 
+(75, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper. primary.school 
+(76, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. upper primary school
+(77, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. upper primary school 
+(78, {'status_code': 205, 'place_id': None})
+VILLAGE : sashkiy m ashram school 
+(79, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. primary school 
+(80, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+VILLAGE : shri sant ghyaneswar sch 
+(81, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper primary school 
+(82, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper. primary.school 
+(83, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. primary school 
+(84, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+NO FILTER : z.p.upper primary school belatikhurd
+(85, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. uttar buniyadi school 
+(86, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper .primary .school 
+(87, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. juni vasti 
+(88, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. kanya primary  school
+(89, {'status_code': 205, 'place_id': None})
+VILLAGE : dr. rajendra prasad primary school
+(90, {'status_code': 205, 'place_id': None})
+VILLAGE : dr. ambedkar primary school
+(91, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.primary.school 
+(92, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+NO FILTER : z.p.upper.primary school berdipar(kache)
+(93, {'status_code': 205, 'place_id': None})
+NO FILTER : manvata high sch. berdipar(ka)
+(94, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.primary school 
+(95, {'status_code': 201, 'place_id': u'ChIJ5dNbAmADKzoRgCPR5d4zqWU'})
+VILLAGE : m. j. phule  primary school
+(96, {'status_code': 205, 'place_id': None})
+VILLAGE : rani awantibai  primary school
+(97, {'status_code': 205, 'place_id': None})
+VILLAGE : shahid mishra vidyalaya 
+(98, {'status_code': 205, 'place_id': None})
+VILLAGE : girjabai kanya  primary school
+(99, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school patilwadi
+(100, {'status_code': 205, 'place_id': None})
+NO FILTER : p.m.vidyalaya  dhmanwan
+(101, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school ghodewasti
+(102, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper primary school 
+(103, {'status_code': 205, 'place_id': None})
+VILLAGE : shahid primary school 
+(104, {'status_code': 205, 'place_id': None})
+NO FILTER : vivekanand convent  tiroda
+(105, {'status_code': 205, 'place_id': None})
+NO FILTER : lokmanya tilak high school kokana jami
+(106, {'status_code': 205, 'place_id': None})
+NO FILTER : shrikrishana madh ashram schoolkokna jami
+(107, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.upper primary school 
+(108, {'status_code': 205, 'place_id': None})
+VILLAGE : pargati ashram school 
+(109, {'status_code': 205, 'place_id': None})
+VILLAGE : pragati highschool 
+(110, {'status_code': 205, 'place_id': None})
+VILLAGE : s.n. jr college 
+(111, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.p.school wajewadi
+(112, {'status_code': 205, 'place_id': None})
+VILLAGE : saroday vidyaly mandir.
+(113, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.p.school 
+(114, {'status_code': 205, 'place_id': None})
+VILLAGE : sc & navboudh girl's  residential school 
+(115, {'status_code': 205, 'place_id': None})
+VILLAGE : zilla parishad primary school, 
+(116, {'status_code': 205, 'place_id': None})
+VILLAGE : zilla parishad primary school, laman tanda 
+(117, {'status_code': 205, 'place_id': None})
+NO FILTER : zilla parishad primary school, kawaldara (bavi)
+(118, {'status_code': 205, 'place_id': None})
+VILLAGE : zilla parishad primary school, 
+(119, {'status_code': 205, 'place_id': None})
+VILLAGE : sant goroba kaka highschool 
+(120, {'status_code': 205, 'place_id': None})
+VILLAGE : zilla parishad primary school,
+(121, {'status_code': 205, 'place_id': None})
+VILLAGE : sant bodhale maharaj primary school 
+(122, {'status_code': 205, 'place_id': None})
+VILLAGE : central sc niwasi p.ashram school 
+(123, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.ps, navegaon (deshmukh)
+(124, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.ups, 
+(125, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.ps, somnala (mandwa)
+(126, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.ups, 
+(127, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. ps, 
+(128, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p. ps, 
+(129, {'status_code': 205, 'place_id': None})
+VILLAGE : zilla parishad primary school, 
+(130, {'status_code': 205, 'place_id': None})
+VILLAGE : shree kunthalgiri english primary school,
+(131, {'status_code': 205, 'place_id': None})
+NO FILTER : ramkrishna paramhansha jr.college. osmanabad
+(132, {'status_code': 205, 'place_id': None})
+NO FILTER : terna mahavidyalaya, osmanabad
+(133, {'status_code': 205, 'place_id': None})
+NO FILTER : bill gates college osmanabad
+(134, {'status_code': 205, 'place_id': None})
+NO FILTER : sharad pawar primary school, osmanabad
+(135, {'status_code': 205, 'place_id': None})
+NO FILTER : gurukul vimukta jati ashram school,mandwa(banjara)
+(136, {'status_code': 205, 'place_id': None})
+VILLAGE : swachhanda vidyalaya, 
+(137, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.ps, 
+(138, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.ups, 
+(139, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.ps, 
+(140, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.ps, 
+(141, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.ps,heti(khursapar)
+(142, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.ps, 
+(143, {'status_code': 205, 'place_id': None})
+VILLAGE : zilla parishad central primary school, 
+(144, {'status_code': 205, 'place_id': None})
+VILLAGE : dnyanvardhini vidyalaya, 
+(145, {'status_code': 205, 'place_id': None})
+VILLAGE : rajshri shahu p.school, 
+(146, {'status_code': 205, 'place_id': None})
+VILLAGE : mata ramabai k. anusuchit jati prathamik  nivashi ashram school,
+(147, {'status_code': 205, 'place_id': None})
+VILLAGE : shri sant mankoji  bhodle  secondary school 
+(148, {'status_code': 205, 'place_id': None})
+VILLAGE : dr. babasaheb ambedkar primary school 
+(149, {'status_code': 205, 'place_id': None})
+VILLAGE : central sc niwasi ma.ashram school 
+(150, {'status_code': 205, 'place_id': None})
+VILLAGE : cambrige english school, 
+(151, {'status_code': 201, 'place_id': u'ChIJfQ0SJoETxTsRXYfjl-V6VFA'})
+VILLAGE : z.p.ps, 
+(152, {'status_code': 205, 'place_id': None})
+VILLAGE : z.p.ups, 
+(153, {'status_code': 205, 'place_id': None})
+NO FILTER : z.p.ps, bhivi (tekdi)
